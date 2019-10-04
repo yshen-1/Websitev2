@@ -1,0 +1,23 @@
+---
+title: "Optical Spectra from a CD Spectroscope"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***
+
+# Description
+
+Surprisingly detailed spectra can be captured with a generic CD spectroscope and a cell phone camera. This page displays a few of the spectra I've managed to acquire with such a setup.
+
+# Compact Fluorescent Bulb
+![](spectroscopy-images/fluorescent.jpg)
+
+# Sol (with Fraunhofer lines)
+![](spectroscopy-images/sun.jpg)
+
+# Neon bulb
+![](spectroscopy-images/neon.jpg)

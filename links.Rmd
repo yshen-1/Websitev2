@@ -1,0 +1,56 @@
+---
+title: "Fun Websites I've Found"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***
+## [Alan Yate's Lab](http://www.vk2zay.net/)
+A site outlining projects by the hobbyist Alan Yates.
+
+***
+## [Charles Wenzel's Technical Library](http://www.techlib.com/default.htm)
+Charles Wenzel's "technical library for the hobbyist and electronics experimenter."
+
+***
+## [Bill Beaty's site](http://amasci.com/)
+Bill Beaty's website for amateur science and education.
+
+***
+## [Nyler Steiner's site](http://www.sparkbangbuzz.com/)
+A website describing homemade technical projects.
+
+***
+## [4hv.org](https://4hv.org/news.php)
+A forum for hobbyists interested in the sciences. Lots of content pertaining to Tesla coils.
+
+***
+## [DIY STM](http://web.archive.org/web/20121111131223/http://www.geocities.com/spm_stm/index.html)
+A website with instructions for a DIY scanning tunneling microscope.
+
+***
+## [Deep Fried Neon](http://deepfriedneon.com/tesla_frame0.html)
+A website with info on Tesla coil construction.
+
+***
+## [Steve Ward's website](https://www.stevehv.4hv.org/)
+The website of high voltage enthusiast Steve Ward.
+
+***
+## [Richie's Tesla Coil Page](http://www.richieburnett.co.uk/tesla.shtml)
+A website with a great deal of information on Tesla coil operation/theory.
+
+***
+## [QRP Kits](http://qrpkits.com/)
+Pacific Antenna's website. They sell high quality electronic kits.
+
+***
+## [EECS 242 Lectures](http://rfic.eecs.berkeley.edu/~niknejad/ee242/lectures.html)
+The "Lectures" page for the UC Berkeley class EECS 242. Several lecture slides are included.
+
+***
+## [Fun Science Gallery](http://www.funsci.com/)
+A website with fun low-cost experiments for amateur scientists.

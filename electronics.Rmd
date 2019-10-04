@@ -1,0 +1,26 @@
+---
+title: "Electronics Projects"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***
+# Power Supplies 
+
+### [Simple Bipolar Power Supplies for Op-Amps](railsplitters.html)
+### [9V to 200V Boost Converter](hv_boostconverter.html)
+
+***
+# Sensors
+### [Field Mill](fieldmill.html)
+***
+# High Voltage
+### [555-based HV supply](hv555.html)
+### [Pelletron](pelletron.html)
+***
+# RF
+***
+# Notes

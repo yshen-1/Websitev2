@@ -1,0 +1,21 @@
+name: "my-website"
+navbar:
+  title: "Yuyi Shen"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Projects"
+      menu:
+        - text: "Electronics"
+          href: electronics.html
+        - text: "Programming"
+          href: programming.html
+        - text: "General Sciences"
+          href: sciences.html
+    - text: "Interesting Links"
+      href: links.html
+output:
+  html_document:
+    theme: united

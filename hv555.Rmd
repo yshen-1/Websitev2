@@ -1,0 +1,24 @@
+---
+title: "Driving a Flyback with a 555"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+***
+![](QuickHV-images/DSC_0068.JPG){#id .class width=100% height=100%}
+
+Voltages upwards of 10 kV can be generated with a simple 555 IC circuit and a DC flyback transformer. I put this one together in a few days during my summer break.
+
+# Schematic
+![](QuickHV-images/555schema.png){#id .class width=100% height=100%}
+D2, D17 and D18 are TVS diodes matched to the specific MOSFET being used for switching, and the 25uH inductor represents the primary of the flyback transformer. Note that the 4 ohm resistor can get rather warm after extended operation.
+
+# Pictures
+
+![The circuit on protoboard.](QuickHV-images/finalProduct.jpg){#id .class width=100% height=100%}
+
+***
+
+![Driving an induction coil.](QuickHV-images/DSC_0077.JPG){#id .class width=100% height=100%}

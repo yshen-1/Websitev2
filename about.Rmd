@@ -1,0 +1,15 @@
+---
+title: "About Me"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hello! I'm an undergrad currently studying EE. This site is meant to document the various projects, notes, and observations I produce as I explore my interests in the sciences. I've attached a brief summary of my career below.
+
+***
+## Resume
+
+![](./Objects/YuyiShenResume.pdf){width=100% height=1000}

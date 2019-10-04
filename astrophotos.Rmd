@@ -1,0 +1,47 @@
+---
+title: "Astrophotography"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+***
+# Blood Moon (September 27, 2015)
+![](Astrophotos/sept27eclipse1.jpg){#id .class width=100% height=100%}
+
+***
+
+![](Astrophotos/sept27eclipse2.jpg){#id .class width=100% height=100%}
+
+***
+# Jupiter and its moons
+![](Astrophotos/jupiter1.jpg){#id .class width=100% height=100%}
+
+***
+# Orion Nebula
+![](Astrophotos/orionnebula1.jpg){#id .class width=100% height=100%}
+
+***
+# the Pleiades
+![](Astrophotos/pleiades.jpg){#id .class width=100% height=100%}
+
+***
+
+![](Astrophotos/pleiades2.jpg){#id .class width=100% height=100%}
+
+***
+# Partial Solar Eclipse (October 23, 2014)
+![](Astrophotos/oct23_14eclipse1.jpg){#id .class width=100% height=100%}
+
+***
+
+![](Astrophotos/oct23_14eclipse2.jpg){#id .class width=100% height=100%}
+
+***
+# 2012 Transit of Venus
+![](Astrophotos/venustransit1.jpg){#id .class width=100% height=100%}
+
+***
+
+![](Astrophotos/venustransit2.jpg){#id .class width=100% height=100%}

@@ -1,0 +1,34 @@
+---
+title: "Projects, Notes, and Unimplemented Designs"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Content Summary
+
+#### This website provides documentation for the interesting places I've found on the web, the projects I've built, and topics/designs that caught my interest. Enjoy!
+***
+## [CD Spectrography](spectra.html)
+***
+## [A DIY Pelletron](pelletron.html)
+***
+## [High Voltage from a 555](hv555.html)
+***
+## [9V to 200 V Boost Converter](hv_boostconverter.html)
+***
+## [Tidy Bibliometrics in R](tidy_biblio.html)
+***
+## [Field Mill for Measuring Electric Fields](fieldmill.html)
+***
+## [Simple Bipolar Power Supplies](railsplitters.html)
+***
+## [Astrophotography](astrophotos.html)
+***
+## [Electronics Project Index](electronics.html)
+***
+## [CS Project Index](programming.html)
+*** 
+## [General Sciences Project Index](sciences.html)
