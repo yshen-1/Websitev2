@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Hello! I'm an undergrad currently studying EE. This site is meant to document the various projects, notes, and observations I produce as I explore my interests in the sciences. I've attached a brief summary of my career below.
+Hello! I'm a PhD student with the Department of ECE at CMU. This site is meant to document the various projects, notes, and observations I produce as I explore my interests in the sciences. I've attached a brief summary of my career below.
 
 ***
 ## Resume

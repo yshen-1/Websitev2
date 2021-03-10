@@ -7,6 +7,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+*** 
+# Photometry
+### [LEDs for Optical Photometry](photometry.html)
+
 ***
 # Power Supplies 
 
@@ -15,6 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ***
 # Sensors
+### [Audio Frequency TIA](lna_tia.html)
 ### [Field Mill](fieldmill.html)
 ***
 # High Voltage
@@ -22,5 +27,3 @@ knitr::opts_chunk$set(echo = TRUE)
 ### [Pelletron](pelletron.html)
 ***
 # RF
-***
-# Notes

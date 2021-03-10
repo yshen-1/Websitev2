@@ -15,17 +15,22 @@ Surprisingly detailed spectra can be captured with a generic CD spectroscope and
 
 # Compact Fluorescent Bulb
 ![](spectroscopy-images/fluorescent.jpg)
+
 ***
 
 # Sol (with Fraunhofer lines)
 ![](spectroscopy-images/sun.jpg)
+
 ***
 
 # Neon bulb
 ![](spectroscopy-images/neon.jpg)
+
 ***
 
 # Sodium lamp
 ![](spectroscopy-images/sodium3.jpg)
+
 ***
+
 ![](spectroscopy-images/sodium4.jpg)
