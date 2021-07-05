@@ -1,0 +1,13 @@
+---
+title: "Fundamentals of Magnetics"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+***
+## Fact Sheet
+
+![](./Objects/bhcurve.pdf){width=100% height=1000}

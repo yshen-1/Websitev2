@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### This website provides documentation for the interesting places I've found on the web, the projects I've built, and topics/designs that caught my interest. Enjoy!
 ***
+## [Magnetics Fundamentals](magfund.html)
+***
 ## [Optical LED Photometry](photometry.html)
 ***
 ## [Low Noise Audio-Frequency TIA](lna_tia.html)
